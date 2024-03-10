@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\program.obj" 
+TO ".\Objects\MUX_simplest" 
+PRINT(".\Listings\MUX_simplest.m51") RAMSIZE(256) 

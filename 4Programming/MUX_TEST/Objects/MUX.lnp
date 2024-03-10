@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\project.obj" 
+TO ".\Objects\MUX" 
+PRINT(".\Listings\MUX.m51") RAMSIZE(256) 
